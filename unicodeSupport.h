@@ -1,0 +1,4 @@
+#ifndef UNICODESUPPORT_H
+#define UNICODESUPPORT_H
+
+#endif // UNICODESUPPORT_H
